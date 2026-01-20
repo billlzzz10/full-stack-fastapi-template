@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.4",
-    "@hey-api/openapi-ts": "0.73.0",
+    "@hey-api/openapi-ts": "0.90.4",
     "@playwright/test": "^1.55.1",
     "@tanstack/router-devtools": "^1.131.42",
     "@tanstack/router-plugin": "^1.131.41",
@@ -37,6 +37,6 @@
     "@vitejs/plugin-react-swc": "^4.0.1",
     "dotenv": "^17.2.2",
     "typescript": "^5.2.2",
-    "vite": "^7.1.5"
+    "vite": "^7.3.1"
   }
 }
